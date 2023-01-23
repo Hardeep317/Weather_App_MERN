@@ -1,0 +1,24 @@
+{
+  "name": "weather_app_mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hardeep317/Weather_App_MERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hardeep317/Weather_App_MERN/issues"
+  },
+  "homepage": "https://github.com/Hardeep317/Weather_App_MERN#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
